@@ -1,4 +1,4 @@
-### Hi there 👋
+### TOOLS REQUIRED
 
 <!--
 **BMC-Bruce/BMC-Bruce** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![TOOLS REQUIRED](https://github.com/BMC-Bruce/BMC-Bruce/blob/master/IMG_4158.png)
