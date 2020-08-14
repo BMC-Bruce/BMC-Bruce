@@ -16,3 +16,5 @@ Here are some ideas to get you started:
 -->
 ![TOOLS REQUIRED](https://github.com/BMC-Bruce/BMC-Bruce/blob/master/IMG_4158.png)
 ![TOOLS REQUIRED](https://github.com/BMC-Bruce/BMC-Bruce/blob/master/IMG_4299.png)
+ \
+![HP-67 Calculator](https://github.com/BMC-Bruce/BMC-Bruce/blob/master/HP67.png)
