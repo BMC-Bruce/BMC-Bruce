@@ -14,5 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![Lists of small primes](https://primes.utm.edu/lists/small/) \
-![RANDOM.ORG](https://www.random.org/analysis/)
+[Lists of small primes](https://primes.utm.edu/lists/small/) \
+[RANDOM.ORG](https://www.random.org/analysis/)
