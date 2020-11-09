@@ -14,5 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![TOOLS REQUIRED](https://github.com/BMC-Bruce/BMC-Bruce/blob/master/IMG_4158.png) \
-![TOOLS REQUIRED](https://github.com/BMC-Bruce/BMC-Bruce/blob/master/IMG_4299.png)
+![Lists of small primes](https://primes.utm.edu/lists/small/) \
+![RANDOM.ORG](https://www.random.org/analysis/)
