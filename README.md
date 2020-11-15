@@ -20,6 +20,7 @@ Here are some ideas to get you started:
 ![TOOLS REQUIRED](https://github.com/BMC-Bruce/BMC-Bruce/blob/master/IMG_4299.png)
 -->
 
+[OpenBMC Gerrit](https://gerrit.openbmc-project.xyz/) \
 [Lists of small primes](https://primes.utm.edu/lists/small/) \
 [RANDOM.ORG](https://www.random.org/analysis/) \
 [2.6 Git Basics - Tagging](https://git-scm.com/book/en/v2/Git-Basics-Tagging)
