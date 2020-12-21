@@ -20,6 +20,8 @@ Here are some ideas to get you started:
 ![TOOLS REQUIRED](https://github.com/BMC-Bruce/BMC-Bruce/blob/master/IMG_4299.png)
 -->
 
+[Discord](https://discord.com/login) \
+[MEE6](https://mee6.xyz/login) \
 [OpenBMC Gerrit](https://gerrit.openbmc-project.xyz/) \
 [OpenBMC Jenkins](https://jenkins.openbmc.org/) \
 [Lists of small primes](https://primes.utm.edu/lists/small/) \
